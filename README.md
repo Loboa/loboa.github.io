@@ -1,8 +1,8 @@
-# loboa.github.io
+Mr Vuyani Daweti's Profile Site
 
 <img src="/github.png" alt="hi" class="inline"/>
 
-### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
+### BSc Informatics _(Information Science)_  Undergraduate
 
 ## Ndima noba kusemthini okanye esibondeni 👋 
 > "I fight even when its too difficult to overcome"
