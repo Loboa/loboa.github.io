@@ -16,10 +16,10 @@ Web Framework: Python (Django) -> C#(ASP.NET)
 
 # Personal Projects: 
  ### PP Maliphale Inc *www.ppminc.co.za (Web Developer)
-    """Used Tools:{
-    "Coding-languages":{"HTML5","CSS3","Javascript","AJAX ","PHP"},
-    "Server":"Apache Server"}
-    """
+    Used Tools:
+    "Coding-languages":"HTML5","CSS3","Javascript","AJAX ","PHP"
+    "Server":"Apache Server"
+    
  
 :wrench:
 ## Tools, Languages ,Frameworks,Databases and OS  <br/>
