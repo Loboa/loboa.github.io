@@ -1,4 +1,4 @@
-# loboa.githbu.io
+# loboa.github.io
 ![alt text](https://github.com/Loboa/loboa.github.io/blob/main/github.png)
 
 ### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
