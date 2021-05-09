@@ -1,5 +1,3 @@
-Mr Vuyani Daweti's Profile Site
-
 <img src="/github.png" alt="hi" class="inline"/>
 
 ### BSc Informatics _(Information Science)_  Undergraduate
