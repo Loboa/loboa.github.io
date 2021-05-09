@@ -1,6 +1,6 @@
 # loboa.github.io
 
-<img src="https://github.com/Loboa/loboa.github.io/blob/main/github.png" alt="hi" class="inline"/>
+<img src="/github.png" alt="hi" class="inline"/>
 
 ### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
 
