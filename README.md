@@ -15,10 +15,10 @@ Web Framework: Python (Django) -> C#(ASP.NET)
 > "I fight even when its too difficult to overcome"
 
 # Personal Projects: 
- ### PP Maliphale Inc *www.ppminc.co.za (Web Developer)
- Used Tools:
-    "Coding-languages":"HTML5","CSS3","Javascript","AJAX ","PHP"
-    "Server":"Apache Server"
+ ### PP Maliphale Inc www.ppminc.co.za (Web Developer)
+ Used Tools:<br>
+    Coding-languages:"HTML5","CSS3","Javascript","AJAX ","PHP" <br/>
+    Server:"Apache Server"
     
  
 :wrench:
