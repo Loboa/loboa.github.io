@@ -1,6 +1,6 @@
 <img src="/github.png" alt="hi" class="inline"/>
 
-### Junior Web Developer 
+### Web Developer 
 # @Ndalaict
 
 Using cutting edge Tech Tools to develop best business solutions.
